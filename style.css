@@ -1,0 +1,45 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #e6e6e6;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #05566e;
+}
+
+h2 {
+    color: #f4f4f4;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.contactInfo {
+    margin-bottom: 20px;
+}
+
+.education
+.experience {
+    margin-bottom: 30px;
+}
+
+.aboutME {
+    margin-bottom: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}

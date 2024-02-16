@@ -19,18 +19,19 @@ p {
     margin-bottom: 10px;
 }
 
-.contactInfo {
+.aboutME {
     margin-bottom: 20px;
+}
+
+.contactInfo {
+    margin-bottom: 30px;
 }
 
 .education,
 .experience {
-    margin-bottom: 30px;
-}
-
-.aboutME {
     margin-bottom: 50px;
 }
+
 
 ul {
     list-style-type: none;
